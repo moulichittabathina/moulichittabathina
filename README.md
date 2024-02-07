@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **moulichittabathina@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TvQ1ux8xFUdphNCVYGg2il6yv3W3MHlp/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1djg1uMeqySJK-udIlFqAswrd6nddG3ZY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
