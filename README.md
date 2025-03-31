@@ -8,19 +8,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulichittabathina&label=Profile%20views&color=0e75b6&style=flat" alt="moulichittabathina" /> </p>
 
-- 🔭 I'm currently working as a **Data Analyst**
+## About Me
+- 🎓 **Master's in Data Analytics Engineering** from George Mason University with a perfect **4.0/4.0 GPA**
+- 💼 Currently working as a **Data Analyst at Indukuri Information Services**
+- 🚀 Successfully processed **10M+ records** and improved data accuracy by **100%**
+- ⚡ Reduced data latency by **20%** and improved operational efficiency by **30%**
+- 🔮 Passionate about transforming complex data into meaningful insights that drive business decisions
 
-- 🌱 I'm expanding my skills in **PySpark, Apache Airflow, Microsoft Fabric, and Cloud Data Platforms**
+## What I'm Up To
+- 🔭 Currently enhancing my expertise in **Cloud Data Platforms** and **Real-Time Analytics**
+- 🌱 Expanding my skills in **PySpark, Apache Airflow, Microsoft Fabric, and ML Ops**
+- 🧠 Exploring advanced techniques in **Machine Learning and NLP**
+- 📚 Always learning and staying updated with the latest in data science and analytics
 
-- 💼 My professional experience includes **data pipelines, ETL workflows, and analytics solutions**
+👨‍💻 All of my projects are available at [https://moulichittabathina.github.io/](https://moulichittabathina.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://moulichittabathina.github.io/](https://moulichittabathina.github.io/)
+💬 Ask me about **Python, SQL, Data Visualization, Machine Learning, ETL, and Business Intelligence**
 
-- 💬 Ask me about **Python, SQL, Data Visualization, Machine Learning, ETL, and Business Intelligence**
+📫 How to reach me **moulichittabathina1999@gmail.com**
 
-- 📫 How to reach me **moulichittabathina1999@gmail.com**
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/14KfV9sMgyZO-m6gKKShdav1qcVADzp40/view?usp=drive_link)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14KfV9sMgyZO-m6gKKShdav1qcVADzp40/view?usp=drive_link)
+## Core Competencies
+- **Data Engineering**: ETL Pipelines, Data Warehousing, Big Data Processing
+- **Data Analysis**: Statistical Analysis, EDA, Hypothesis Testing, A/B Testing
+- **Data Visualization**: Power BI, Tableau, Qlik, QuickSight, Interactive Dashboards
+- **Machine Learning**: Predictive Modeling, Classification, Clustering, Time Series Analysis
+- **Cloud Platforms**: AWS, GCP, Azure, Snowflake, Google BigQuery
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +51,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moulichittabathina&show_icons=true&locale=en" alt="moulichittabathina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulichittabathina&" alt="moulichittabathina" /></p>
+
+---
+
+<p align="center">
+  <i>Transforming complex data into actionable insights through analytics, machine learning, and visualization. Passionate about leveraging cutting-edge technologies to solve business challenges and drive data-informed decision making.</i>
+</p>
