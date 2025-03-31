@@ -2,21 +2,25 @@
 
 
 <h1 align="center">Hi 👋, I'm Mouli Chittabathina</h1>
-<h3 align="center">Aspiring Data Analyst in the Making 📊🔍</h3>
+<h3 align="center">Data Analyst & Data Engineer specializing in actionable insights 📊🔍</h3>
 
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulichittabathina&label=Profile%20views&color=0e75b6&style=flat" alt="moulichittabathina" /> </p>
 
-- 🌱 I’m currently learning **Nltk, BeautifulSoup, Pyspark, Tableau.**
+- 🔭 I'm currently working as a **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/moulichittabathina](https://github.com/moulichittabathina)
+- 🌱 I'm expanding my skills in **PySpark, Apache Airflow, Microsoft Fabric, and Cloud Data Platforms**
 
-- 💬 Ask me about **Python,R,Python, R, SQL, Apex, SOQL, Java SE. Frameworks: Pandas, Scikit learn, Matplotlib, Seaborn.    Tools: Excel, Power Bi, MySQL, Grafana, PostgreSQL.**
+- 💼 My professional experience includes **data pipelines, ETL workflows, and analytics solutions**
 
-- 📫 How to reach me **moulichittabathina@gmail.com**
+- 👨‍💻 All of my projects are available at [https://moulichittabathina.github.io/](https://moulichittabathina.github.io/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1djg1uMeqySJK-udIlFqAswrd6nddG3ZY/view?usp=drive_link)
+- 💬 Ask me about **Python, SQL, Data Visualization, Machine Learning, ETL, and Business Intelligence**
+
+- 📫 How to reach me **moulichittabathina1999@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14KfV9sMgyZO-m6gKKShdav1qcVADzp40/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
